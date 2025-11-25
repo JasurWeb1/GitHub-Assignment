@@ -1,0 +1,7 @@
+frontend/register.html
+frontend/notes.html
+frontend/styles.css
+backend/server.js
+backend/auth.js
+backend/db.js
+backend/notes.js
